@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 </div>
 
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&alignment"Center)](https://www.linkedin.com/in/hugo-mc/)

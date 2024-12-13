@@ -1,4 +1,4 @@
-ntr<div align="center">
+<div align="center">
   <h1> WELCOME 👋 </h1>
 </div>
 
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 :man_technologist: Sobre mí :
    
 <div>Apasionado de los resultados que entrega la aplicación de tecnologias. <div/>
-<div>   En todos los aspectos de un proyecto, el MVP, ciclo de vida, su impacto en la sociedad, hasta el ROI. </div>
+  
+  En todos los aspectos de un proyecto, el MVP, ciclo de vida, su impacto en la sociedad, hasta el ROI.
 
 
 
@@ -49,6 +50,10 @@ Here are some ideas to get you started:
 
 
 ---
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
 <div id="header" align="center">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
@@ -63,7 +68,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Estadisticas :
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=cousinlemon)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cousinlemon&theme=dark&background=000000)](https://git.io/streak-stats)
 -->

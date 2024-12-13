@@ -72,6 +72,6 @@ Here are some ideas to get you started:
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=cousinlemon)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cousinlemon&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cousinlemon&layout=compact&theme=vision-friendly-dark)](https://github.com/cousinlemon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cousinlemon&layout=compact&theme=vision-friendly-dark)](https://github.com/cousinlemon/)
 <!--(https://github.com/anuraghazra/github-readme-stats)
 -->

@@ -1,4 +1,4 @@
-<div align="center">
+ntr<div align="center">
   <h1> WELCOME 👋 </h1>
 </div>
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado otras Tecnologías, ni las habilidades blandas.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta encontrar y simplificar las soluciones como nuevos retos para asegurar la calidad en los proyectos.
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/)
 

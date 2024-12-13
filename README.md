@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div>Disfrutando de una transición laboral al Aseguramiento de Calida / "Quality Assurance Engineering"  <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
-* :telescope: Actualmente estoy desarrollando proyectos Freelance, pero estoy en busca de proyectos solidos para lograr nuevos retos :muscle:
+* :telescope: Actualmente estoy desarrollando proyectos Freelance, y estoy en busca de proyectos solidos para lograr nuevos retos :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado otras Tecnologías, ni las habilidades blandas.
 

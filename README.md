@@ -42,24 +42,19 @@ I find where it comes from."
 
 MORE: 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/)
-•cousinlemon@gmail.com</div>
-
-<div>Apasionado de los resultados que entrega la aplicación de tecnologias. <div/>
-  
-  En todos los aspectos de un proyecto, el MVP, ciclo de vida, su impacto en la sociedad, hasta el ROI.
 
 
 
-<div>Disfrutando de una transición laboral al Aseguramiento de Calida / "Quality Assurance Engineering"  <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div>Working Transition including "Quality Assurance Engineering"  <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
-* :telescope: Actualmente estoy desarrollando proyectos Freelance, y estoy en busca de proyectos solidos para lograr nuevos retos :muscle:
+* :telescope: actual Freelance, looking new projects :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado otras Tecnologías, ni las habilidades blandas.
+* :seedling: Constant Learner :blue_book: and practicing :computer: lenguaje SQL y Python, withut forgettng other technologies, neither soft skills ! 🧠 frequenzia 💖
 
-* :heartbeat: Me encanta encontrar y simplificar las soluciones como nuevos retos para asegurar la calidad en los proyectos.
+* :heartbeat: Love to analyze into simple conditions, to get simple solutions, to assure all the process and return you wth a positive or negative answer to release. #QualityAssurance .
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/)
+* :mailbox: ¿feel into contacting me? [![Linkedin Badge](https://img.shields.io/badge/-hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/), 📬•cousinlemon@gmail.com.
 
 
 ---

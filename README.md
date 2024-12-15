@@ -29,8 +29,21 @@ Here are some ideas to get you started:
   
 ---
  <div id="header" align="left">
-:man_technologist: Sobre mí :
-   
+:man_technologist: ABOUT me:
+   <div>I am a solution driven person
+•QA Tester and Scrum Master
+ 
+> QA : with a solid understanding of QA principles and processes in software development (test cases, API, Postman, Jira) as well as mobile (Android Studio) and automated application testing using POM (page object model).
+
+> Persona: with initiative in the search of details, information, bugs and facts for decision making, based on data; This added to other soft skills such as leading, communication, negotiation, teamwork, organization, discernment and analysis, among others, in the search to find the most simple solution, allows me to achieve great impact results.
+
+"I don't stay still in the face of doubt.
+I find where it comes from."
+
+MORE: 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/)
+•cousinlemon@gmail.com</div>
+
 <div>Apasionado de los resultados que entrega la aplicación de tecnologias. <div/>
   
   En todos los aspectos de un proyecto, el MVP, ciclo de vida, su impacto en la sociedad, hasta el ROI.

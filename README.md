@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 "I don't stay still in the face of doubt.
 I find where it comes from."
 
-MORE: 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/)
-
+🐛
 
 
 <div>Working Transition including "Quality Assurance Engineering"  <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -65,13 +63,20 @@ MORE:
 <div id="header" align="center">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/postgre-SQL-6DB33F?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+    <img decoding="async" src="https://img.shields.io/badge/postgreSQL-6DB33F?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Jira-217346?style=for-the-badge&logo=Jira&logoColor=white" alt="jira"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Selenium-FFBE00?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
   </a>
-
+ <img decoding="async" src="https://img.shields.io/badge/Mental-Maps-FFBE00?style=for-the-badge&logo=Brain&logoColor=white" alt="MentalMaps"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Android_Studio-FFBE00?style=for-the-badge&logo=Android&logoColor=white" alt="Android"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Postman-217346?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/APIs-6DB33F?style=for-the-badge&logo=restfulapi&logoColor=white" alt="api"/>
+  </a>
 </div>
 
 ---

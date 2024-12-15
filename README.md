@@ -52,7 +52,7 @@ I find where it comes from."
 
 * :heartbeat: Love to analyze into simple conditions, to get simple solutions, to assure all the process and return you wth a positive or negative answer to release. #QualityAssurance .
 
-* :mailbox: ¿feel into contacting me? [![Linkedin Badge](https://img.shields.io/badge/-hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/), 📬•cousinlemon@gmail.com.
+* :mailbox: ¿want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mc/), 📬•cousinlemon@gmail.com.
 
 
 ---
